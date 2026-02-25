@@ -78,9 +78,7 @@ export default function Portfolio() {
           {/* Left Content */}
           <div className="animate-in fade-in slide-in-from-left duration-700">
             <div className="mb-6">
-              <span className="inline-block px-4 py-2 bg-secondary/20 text-primary rounded-full text-sm font-medium">
-                Professional Portfolio
-              </span>
+              
             </div>
             <h1 className="text-5xl md:text-6xl font-bold leading-tight mb-6 text-foreground">
               Nehal <span className="text-gradient">Patel</span>
