@@ -204,7 +204,7 @@ export default function Portfolio() {
               },
               {
                 title: 'Horticulture Trainer & Deputy Director',
-                company: 'Directorate of Horticulture, Bagayat Kacher, Navapar, Bhavnagar',
+                company: 'Directorate of Horticulture, Bagayat Kacheri, Navapara, Bhavnagar',
                 period: '',
                 description: 'Leading women training initiatives in seed saving, microgreens cultivation, organic fertilizer production, and sustainable gardening practices.',
               },
